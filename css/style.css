@@ -69,7 +69,11 @@ p {
 }
 
 .link-btn {
-  background: var(--primary-color);
+  background: linear-gradient(
+    109.6deg,
+    rgb(115, 176, 246) 11.2%,
+    rgb(245, 145, 192) 100.3%
+  );
   box-shadow: var(--box-shadow);
   color: white;
   text-decoration: none;
